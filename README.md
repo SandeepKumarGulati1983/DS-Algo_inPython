@@ -1,4 +1,4 @@
-# DS-Algo_inPython
+# DS & Algos inPython
 data structure and algo practice in Python
 
 Basic Sortings in python - Time Complexity - o(n^2)
